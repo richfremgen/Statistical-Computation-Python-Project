@@ -1,8 +1,9 @@
-# Statistical-Computation-Python-Project
+# Statistical-Computation-Python-Project:
 International Soccer Game Analysis in Python
 
-## Guidelines
-You may form a team of between 1 - 6 students to complete the project. The primary goal of the project is to do something interesting using something related to the course. This is purposefully open ended to give you the opportunity to work on something you are interested in and to produce work that you could potentially show to a prospective employer or use as part of your graduation portfolio.
+## Guidelines:
+
+You may form a team of between 1 - 6 students to complete the project. The primary goal of the project is to do something interesting using something related to the course. This is purposefully open-ended to give you the opportunity to work on something you are interested in and to produce work that you could potentially show to a prospective employer or use as part of your graduation portfolio.
 
 Some examples of possible topics:
 
@@ -11,7 +12,7 @@ Some examples of possible topics:
 * Analyzing a data set
 * Implementing a specific algorithm from a paper
 
-## Expectations
+## Expectations:
 
 The primary way in which you will be evaluated will be based on the evidence of effort in your project and the quality of the write up. What this means is that a "failed" project (e.g. an analysis without a significant result) that is well documented will receive a better grade than a less ambitious "successful" project with a worse write up.
 The expectation is that most projects should be roughly 5-10 pages - including text, code, figures, and other output. This is meant only as a very rough guide to calibrate your work (there are no penalties for the report being too short or too long).
